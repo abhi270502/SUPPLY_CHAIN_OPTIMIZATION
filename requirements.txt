@@ -1,0 +1,8 @@
+GraphDataScience
+pandas
+numpy
+matplotlib
+scikit-learn
+statsmodels
+Faker
+python-dotenv
