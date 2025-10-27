@@ -16,10 +16,10 @@ Identify high-risk airports and optimize routing decisions
 # Create virtual environment
 python -m venv .venv
 
-# Activate virtual environment
-# On Windows:
+## Activate virtual environment
+### On Windows:
 .venv\Scripts\activate
-# On macOS/Linux:
+### On macOS/Linux:
 source .venv/bin/activate
 
 # Install dependencies
